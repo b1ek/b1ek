@@ -1,4 +1,4 @@
-### Hi there 👋
+![](i.buil.softwr.png)
 Im Dave, currently working on Bat to C compiler.
 The project is private for now, but it will appear at pinned repositories when it'll be available.
 
