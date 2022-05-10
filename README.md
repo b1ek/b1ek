@@ -5,7 +5,7 @@ The project is private for now, but it will appear at pinned repositories when i
 Currently learning stuff about web development, mostly about backend.
 
 #### Contacts:
-> Personal email: `dave.black5840@gmail.com`<br/>
-> Work email: `Please contact the personal one`<br/>
+> Email: `creeperywime@gmail.com`<br/>
 > Discord: blek!#3009<br/>
 > Telegram: @bleki42<br/>
+> [Website](https://blek.codes)
