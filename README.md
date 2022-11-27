@@ -24,7 +24,7 @@ I like to build software in my free time, and i am currently working on a secure
 > Discord: ~~blek!#3009~~ I rarely use discord, text me on telegram or send an email if you want me to answer<br/>
 > Telegram: @bleki42<br/>
 > [Website](https://blek.codes)<br/>
-> [GPG key](https://blek.codes/gpgkey) (MD5: `ee5ef3c549fe0fc8e76b32aa7565fe01`)
+> [GPG key](https://blek.codes/gpgkey) (**CHECK MD5: `ee5ef3c549fe0fc8e76b32aa7565fe01`**)
 
 <br/>
 <img src='flr.png' height='24px' width='100%'></img>
