@@ -1,5 +1,5 @@
 
-<img src='https://i.pinimg.com/474x/09/0e/f9/090ef99bb01bf210cfa9ecc4b658d3c2.jpg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
+<img src='aki.jpg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
 # Hi there 👋👋
 My name is Alice and i am a fullstack web developer.  
