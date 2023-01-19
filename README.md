@@ -18,3 +18,6 @@ Website: <a href='https://blek.codes'>`blek.codes`</a>
 🇯🇵 Japanese (learning)
 
 ---
+Visits so far:
+
+<img src='https://profile-counter.glitch.me/b1ek/count.svg'></img>
