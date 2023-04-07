@@ -1,6 +1,5 @@
 <p align='center'><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=PHP+is+one+of+the+programming+languages+ever+made'></img></p>
 
-
 <img src='aki.jpg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
 # Hi there 👋👋
@@ -19,7 +18,8 @@ Website: <a href='https://blek.codes'>`blek.codes`</a>
 🇷🇺 Russian  
 🇯🇵 Japanese (learning)
 
----
+<img src='flr.png' width='100%' height='24px'></img>
+
 Visits so far:
 
 <img src='https://profile-counter.glitch.me/b1ek/count.svg'></img>
