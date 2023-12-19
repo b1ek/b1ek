@@ -1,13 +1,16 @@
 <p align='center'><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=PHP+is+one+of+the+programming+languages+ever+made'></img></p>
 
-<img src='aki.jpg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
+<img src='https://media.tenor.com/KF5SrdAufhEAAAAM/world-earth.gif' title="the world i live in" align='right'></img>
 
 # Hi there 👋👋
 My name is Alice and i am a fullstack web developer.  
 I like to write interesting stuff and use my github for side projects that i do for fun (this really is the only thing im good at)
 
-Aside from PHP/JS, i use a lot of other languages&tools for my projects, like C or python
+I like rust, php and js. Also sometimes code funny stuff with C
 
+I believe in global survelliance and one world government that controls everything. My alignment is either chaotic good or evil, depends on ~~whether a devil has posessed me at the moment~~ my mood :3.
+
+<img src='https://media.tenor.com/0nek4VN1fyEAAAAM/omori-omori-kel.gif' align='right'></img>
 ## Contacts
 E-Mail: `me@blek.codes` (or <a href='mailto:me@blek.codes'>click here</a>)  
 Telegram: `@bleki42`  
@@ -18,7 +21,10 @@ Website: <a href='https://blek.codes'>`blek.codes`</a>
 🇷🇺 Russian  
 🇯🇵 Japanese (learning)
 
-<img src='flr.png' width='100%' height='24px'></img>
+## Complete list of the tools i use on a daily basis
+Rust, NodeJS, PHP, Go, Python, *SH, Linux, C/C++, Qt on C/C++, C#, WinForms, WPF, XAML, ASP.Net, BrowserJS, TemplatedHTML, PureHTML/CSS, Fennekin, Docker, docker-compose, redis, psql, mssql, mysql(maria), SurrealDB, VSCode, DataGrip, Zola, Postman, Gitlab CI/CD, Jenkins, Git, SvelteKit, Svalbard, OpenID Connect, ORY Hydra, TS, Vite, esbuild, playwright, ArchLinux
+
+---
 
 Visits so far:
 
