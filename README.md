@@ -16,6 +16,9 @@ E-Mail: `me@blek.codes` (or <a href='mailto:me@blek.codes'>click here</a>)
 Telegram: `@bleki42`  
 Website: <a href='https://blek.codes'>`blek.codes`</a>
 
+Preferred form of contact is GPG encrypted & signed email, as it is most secure and i check those regularly.
+Feel free to use whatever else though.
+
 ## Languages
 I speak freely:  
 🇬🇧 English  
