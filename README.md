@@ -4,7 +4,7 @@
 
 # Hi there 👋👋
 My name is Alice and i am a fullstack web developer.  
-I like to write interesting stuff and use my github for side projects that i do for fun (this really is the only thing im good at)
+I like to write interesting stuff and use my github for side projects that i do for fun (this really is the only thing im good at). I host more serious projects on my [Gitea instance](https://git.blek.codes/blek)
 
 I like rust, php and js. Also sometimes code funny stuff with C
 
