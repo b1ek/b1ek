@@ -17,9 +17,14 @@ Telegram: `@bleki42`
 Website: <a href='https://blek.codes'>`blek.codes`</a>
 
 ## Languages
+I speak freely:  
 🇬🇧 English  
-🇷🇺 Russian  
-🇯🇵 Japanese (learning)
+🇷🇺 Russian
+
+I kinda speak:  
+🇯🇵 Japanese  
+🇩🇪 German  
+🇺🇳 TokiPona
 
 ## Complete list of the tools i use on a daily basis
 Rust, NodeJS, PHP, Go, Python, *SH, Linux, C/C++, Qt on C/C++, C#, WinForms, WPF, XAML, ASP.Net, BrowserJS, TemplatedHTML, PureHTML/CSS, Fennekin, Docker, docker-compose, redis, psql, mssql, mysql(maria), SurrealDB, VSCode, DataGrip, Zola, Postman, Gitlab CI/CD, Jenkins, Git, SvelteKit, Svalbard, OpenID Connect, ORY Hydra, TS, Vite, esbuild, playwright, ArchLinux
