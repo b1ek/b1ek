@@ -19,7 +19,7 @@ Website: <a href='https://blek.codes'>`blek.codes`</a>
 Preferred form of contact is GPG encrypted & signed email, as it is most secure and i check those regularly.
 Feel free to use whatever else though.
 
-My GPG fingerprint is `59F46DB850CA447F36371DED14546221E3595D0C`
+My GPG fingerprint is `A6C038E03D212D06575053ADA622C22C9BC616B2`
 
 ## Languages
 I speak freely:  
